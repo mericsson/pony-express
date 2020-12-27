@@ -24,11 +24,12 @@ open dist/index.html
 ## TODO
 
 - [ ] Add personal userbase key.
-- [ ] Deploy to Netlify.
 
 ## Deploys
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/ef422b54-c06a-45e1-aa8d-8c324e4813f5/deploy-status)](https://app.netlify.com/sites/frosty-banach-a18f1b/deploys)
+Auto deployed with Netlify.
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ef422b54-c06a-45e1-aa8d-8c324e4813f5/deploy-status)](https://app.netlify.com/sites/pony-express/deploys)
 
 ## Background
 
