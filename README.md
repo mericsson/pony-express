@@ -27,7 +27,7 @@ open dist/index.html
 
 ## Deploys
 
-Auto deployed with Netlify.
+`main` branch auto deployed with Netlify. Hosted at [https://pony-express.netlify.app/](https://pony-express.netlify.app/).
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/ef422b54-c06a-45e1-aa8d-8c324e4813f5/deploy-status)](https://app.netlify.com/sites/pony-express/deploys)
 
