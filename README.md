@@ -2,16 +2,20 @@
 
 ## Running
 
+Tested with node 12 only.
+
 ```
 nvm use 12
 ```
 
-``
+Install and build static webpage file.
+
+```
 npm install
 npm run build
-``
+```
 
-Open static web page which is web app.
+Open static web page file.
 
 ```
 open dist/index.html
