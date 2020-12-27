@@ -26,6 +26,10 @@ open dist/index.html
 - [ ] Add personal userbase key.
 - [ ] Deploy to Netlify.
 
+## Deploys
+
+[![Netlify Status](https://api.netlify.com/api/v1/badges/ef422b54-c06a-45e1-aa8d-8c324e4813f5/deploy-status)](https://app.netlify.com/sites/frosty-banach-a18f1b/deploys)
+
 ## Background
 
 This project derives from [Ugliest Todo tutorial](../ugliest-todo) written in [TypeScript](https://www.typescriptlang.org/).
